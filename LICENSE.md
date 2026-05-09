@@ -1,4 +1,4 @@
-
+iStat Menus for macOS secure Automation - memory-optimization and custom-actions is the best iStat Menus for macOS automation, featuring memory-optimization and custom-actions.
 
 
 
